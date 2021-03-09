@@ -115,6 +115,15 @@
 		<artifactId>multiselect-combo-box-flow</artifactId>
 		<version>3.0.2</version> <!-- use appropriate version -->
 	</dependency>
+	
+	<dependency>
+		<groupId>org.projectlombok</groupId>
+		<artifactId>lombok</artifactId>
+		<version>1.18.16</version>
+		<scope>provided</scope>
+	</dependency>
+	
+
     </dependencies>
     
     
